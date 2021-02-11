@@ -5,4 +5,4 @@ resources:
 images:
 - name: quay.io/dsanchor/quarkus-petclinic
   newName: image-registry.openshift-image-registry.svc.cluster.local:5000/borjacarretero/quarkus-petclinic
-  newTag: 1.0.1
+  newTag: 8887f8c3fa2e9bb4133a8c20d1e035d83fa045a0
